@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666426259859",
+    "project_id": "kronii--chat",
+    "storage_bucket": "kronii--chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666426259859:android:4a61ba5a731ba31e3cd066",
+        "android_client_info": {
+          "package_name": "com.abjt.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666426259859-upa4gifhjn82ramb6abneol7odnvbgnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3osf0iGdPSWx7BtaxFycPJ9M9IkS4jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666426259859-upa4gifhjn82ramb6abneol7odnvbgnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

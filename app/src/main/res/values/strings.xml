@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Kronii Chat</string>
+    <string name="welcome">Welcome To Kronii Chat</string>
+    <string name="extra">Simple And Easy Chat With Your Friends</string>
+    <string name="already_have_an_account">Already Have an Account?\nSign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="sign_in_">Sign In</string>
+    <string name="add_image">Add Image</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+
+
+    <string name="firebase_device_token_id">cZDaOvsOT4WDWiGrXDh0fR:APA91bEAyofeOhuffh4LHpXhAObjMNgxDeZkZiX0LGZtkP1Xj2OmGDKHhNHGCTcfaAvdu3mupinIxphv_zGMYR8LelPFdNXKRVuF9kRP8DVz7gCeb9Ls19jgtfhOOXVXH9YueHyWjTQW</string>
+    <string name="sign_in">Sign In</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="select_contact">Select Contact</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_transform">Transform</string>
+    <string name="menu_reflow">Reflow</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="lorem_ipsum_title">Lorem Ipsum"</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply placeholder text of the printing and
+        typesetting industry. Lorem Ipsum has been the industry\'s standard placeholder text ever
+        since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
+        type specimen book"
+    </string>
+    <string name="type_a_message">type a message</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="channel_id">Chat_Message</string>
+    <string name="contacts">Contacts</string>
+    <string name="logout_drawer">Logout</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#F97902</color>
+    <color name="primary_light">#F2851D</color>
+    <color name="primary_dark">#222222</color>
+    <color name="primary_text">#262626</color>
+    <color name="white_text">#E4E0E0</color>
+    <color name="secondary_text">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="input_background">#ECECECEC</color>
+    <color name="icon_background">@color/cardview_dark_background</color>
+    <color name="error">#BB0202</color>
+    <color name="received_message_background">#090909</color>
+    <color name="light_black">#141414</color>
+    <color name="onlineGreen">#008000</color>
+
+</resources>
+

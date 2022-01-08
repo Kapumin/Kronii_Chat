@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_header"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_150sdp"
+    android:animateLayoutChanges="true"
+    android:background="@drawable/navigation_header_background"
+    android:paddingBottom="@dimen/_10sdp"
+    android:paddingStart="@dimen/_5sdp"
+    android:paddingTop="@dimen/_10sdp">
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:id="@+id/supportView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="@dimen/_5sdp"/>
+
+    <com.makeramen.roundedimageview.RoundedImageView
+        android:id="@+id/profileImageUser"
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="@dimen/_80sdp"
+        android:scaleType="centerCrop"
+        android:layout_toEndOf="@+id/supportView"
+        android:layout_marginTop="@dimen/_8sdp"
+        app:riv_corner_radius="@dimen/_60sdp"
+        app:riv_oval="true"/>
+
+    <TextView
+        android:id="@+id/user_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_regular"
+        android:textColor="@color/primary"
+        android:textSize="@dimen/_14ssp"
+        android:paddingEnd="@dimen/_8sdp"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:includeFontPadding="false"
+        android:layout_marginTop="@dimen/_4sdp"
+        android:layout_below="@+id/profileImageUser"
+        android:layout_toEndOf="@+id/supportView"
+        android:textAlignment="viewStart"/>
+    <TextView
+        android:id="@+id/user_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_light"
+        android:textColor="@color/primary"
+        android:textSize="@dimen/_12ssp"
+        android:paddingEnd="@dimen/_8sdp"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:includeFontPadding="false"
+        android:layout_below="@+id/user_name"
+        android:layout_toEndOf="@+id/supportView"
+        android:textAlignment="viewStart"/>
+
+</RelativeLayout>
